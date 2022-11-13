@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m interested in Data analysis, Data viz and Machine Learning.
-- 🌱 I’m currently learning data science/ML 
+- 🌱 I’m currently learning data science/ML with the Women Techsters Fellowship, Class of 2023.
 - 👯 I’m looking to collaborate on data analysis and machine learning projects.
 - 🤔 I’m looking for help with learning R programming language.
 - 👨‍🏫 I'm very open to critique. Feedbacks are essential for growth.
